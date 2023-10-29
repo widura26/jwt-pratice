@@ -1,0 +1,8 @@
+POST http://localhost:4000/register
+
+{
+    "name": "test",
+    "email": "widura@gmail.com",
+    "role": "normal",
+    "password": "123"
+}
